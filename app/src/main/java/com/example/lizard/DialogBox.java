@@ -14,6 +14,12 @@ public class DialogBox extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dialog_box);
 
+
+
+
+
+
+
     }
 
 
